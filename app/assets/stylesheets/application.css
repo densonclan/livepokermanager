@@ -11,3 +11,52 @@
  *= require_self
  *= require_tree .
 */
+body {
+	padding-top: 40px;
+
+}
+
+.icon_money {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;  background-image: url("glyphicons_228_gbp.png");
+  background-repeat: no-repeat;
+}
+
+.icon_money_white {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;  background-image: url("glyphicons_228_gbp_white.png");
+  background-repeat: no-repeat;
+}
+
+.icon_stack {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;  background-image: url("glyphicons_037_coins.png");
+  background-repeat: no-repeat;
+}
+
+.icon_stack_white {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;  background-image: url("glyphicons_037_coins_white.png");
+  background-repeat: no-repeat;
+}
+
